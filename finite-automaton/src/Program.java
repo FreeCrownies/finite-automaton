@@ -6,11 +6,15 @@ public class Program {
     }
 
     public void start() {
-
+        loadSpeeches();
     }
 
     public static Program getInstance() {
         return INSTANCE;
+    }
+
+    private void loadSpeeches() {
+        /* */
     }
 
 }
