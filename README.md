@@ -1,2 +1,2 @@
 # finite-automatics
- A school 
+A simple Java Finite Automatics for school
