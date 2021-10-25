@@ -41,5 +41,4 @@ public class Speech {
         }
         currentState = startStates.get(0);
     }
-
 }
