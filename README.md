@@ -1,2 +1,2 @@
 # finite-automatons
-A simple Java Finite Automatics for school
+A simple Java Finite Automaton code for school
